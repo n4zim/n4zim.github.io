@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+title: Nazim Lachter
+email: nlachter@gmail.com
+description: >
+  Description coming soon...
+
+baseurl: ""
+url: ""
+
+twitter_username: n4ziml
+github_username:  n4zim
+
+repository: n4zim/n4zim.github.io
+
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
