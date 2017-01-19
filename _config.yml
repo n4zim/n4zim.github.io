@@ -12,7 +12,6 @@ github_username:  n4zim
 repository: n4zim/n4zim.github.io
 
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
 exclude:
