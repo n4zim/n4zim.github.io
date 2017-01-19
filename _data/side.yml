@@ -1,0 +1,39 @@
+- name: CenterWay
+  position:
+    fr: Trésorier
+    en: Treasurer
+  description:
+    fr: Développement de projets prototypés
+    en:
+  start: 15-04
+  end: now
+
+- name: CookieEaterDevs
+  position:
+    fr: Développeur
+    en: Developer
+  description:
+    fr: Développement de solutions logicielles et applications (DROP'in)
+    en:
+  start: 15-01
+  end: now
+
+- name: AssoM
+  position:
+    fr: Membre actif
+    en:
+  description:
+    fr: Staff et développement d'outils de communication numériques
+    en:
+  start: 14-11
+  end: 16-06
+
+- name: BDE Inform'Aix
+  position:
+    fr: Président
+    en:
+  description:
+    fr: Présidence du Bureau des Etudiants du département Informatique de l'IUT d'Aix-Marseille
+    en:
+  start: 14-02
+  end: 15-04
