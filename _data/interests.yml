@@ -1,26 +1,26 @@
 - title:
-    fr: Composition musicale
-    en:
+    fr: "Composition musicale"
+    en: "Music composition"
   elements:
-  - fr: Composition de musique par MAO
-    en:
-  - fr: Possession d’un petit Home Studio
-    en:
-  - fr: Maitrise de multiples percussions
-    en:
+    - fr: "Composition de musique par MAO"
+      en: "Computer music composition"
+    - fr: "Possession d’un petit Home Studio"
+      en: "Possession of a little Home Studio"
+    - fr: "Maitrise de multiples percussions"
+      en: "Mastery of multiple percussions"
 
 - title:
-    fr: Sport
-    en:
+    fr: "Sport"
+    en: "Sport"
   elements:
-  - fr: Possession d'une ceinture verte de Judo
-    en:
+    - fr: "Possession d'une ceinture verte de Judo"
+      en: "Possession of a green belt of Judo"
 
 - title:
-    fr: Autres
-    en: Others
+    fr: "Autres"
+    en: "Others"
   elements:
-  - fr: Nombreux voyages en Europe
-    en:
-  - fr: Photographie et créations audiovisuelles
-    en:
+    - fr: "Nombreux voyages en Europe"
+      en: "Many trips to Europe"
+    - fr: "Photographie et créations audiovisuelles"
+      en: "Photography and audiovisual creations"

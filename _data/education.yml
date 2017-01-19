@@ -1,15 +1,15 @@
-- name: Licence 3 Informatique
-  school: Luminy - Aix-Marseille Université
-  year: 2016
+- name: "Licence 3 Informatique"
+  school: "Luminy - Aix-Marseille Université"
+  year: "2016"
 
-- name: Diplôme d’Étudiant Entrepreneur
-  school: Aix-Marseille Université
-  year: 2015
+- name: "Diplôme d’Étudiant Entrepreneur"
+  school: "Aix-Marseille Université"
+  year: "2015"
 
-- name: DUT Informatique
-  school: IUT Aix-en-Provence - Aix-Marseille Université
-  year: 2015
+- name: "DUT Informatique"
+  school: "IUT Aix-en-Provence - Aix-Marseille Université"
+  year: "2015"
 
-- name: Baccalauréat Général Scientifique
-  school: Lycée Jean-Perrin - Marseille
-  year: 2013
+- name: "Baccalauréat Général Scientifique"
+  school: "Lycée Jean-Perrin - Marseille"
+  year: "2013"

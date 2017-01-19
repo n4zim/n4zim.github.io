@@ -1,23 +1,23 @@
-- company: Zero ecoimpact
-  website: https://zero-ecoimpact.org
+- company: "Zero ecoimpact"
+  website: "https://zero-ecoimpact.org"
   position:
-    fr: Directeur technique (CTO)
-    en: Chief Technology Officer
-  start: 16-04
-  end: now
+    fr: "Directeur technique (CTO)"
+    en: "Chief Technology Officer"
+  start: "16-04"
+  end: "now"
 
-- company: Digitick SA
-  website: http://www.digitick.com
+- company: "Digitick SA"
+  website: "http://www.digitick.com"
   position:
-    fr: Stagiaire développeur Digitick Systems
-    en: Digitick Systems Intern Developer
-  start: 15-04
-  end: 15-06
+    fr: "Stagiaire développeur Digitick Systems"
+    en: "Digitick Systems Intern Developer"
+  start: "15-04"
+  end: "15-06"
 
-- company: AlloDJMarseille
-  website: https://allodjmarseille.fr
+- company: "AlloDJMarseille"
+  website: "https://allodjmarseille.fr"
   position:
-    fr: Technicien référent, animateur DJ et lightjockey
-    en: Supervisor engineer, DJ and lightjockey
-  start: 14-03
-  end: now
+    fr: "Technicien référent, animateur DJ et lightjockey"
+    en: "Supervisor engineer, DJ and lightjockey"
+  start: "14-03"
+  end: "now"
