@@ -1,0 +1,69 @@
+- category:
+    fr: Applications légères (web)
+    en: Web applications
+  elements:
+  - fr: Maitrise de l'HTML[5] et du CSS[3] (avec LESS et SASS)
+    en:
+  - fr: Très bonne maîtrise du PHP[7] et du Javascript[7]
+    en:
+  - fr: Application systématique des concepts de Responsive Design
+    en:
+  - fr: Maitrise de l'ensemble du framework Symfony
+    en:
+  - fr: Développement NodeJS : Angular, React, Meteor
+    en: NodeJS development : Angular, React, Meteor
+  - fr: Technologies front-end : Bootstrap, Foundation, JQuery
+    en: Front-end technologies : Bootstrap, Foundation, JQuery
+
+- category:
+    fr: Autres domaines informatiques
+    en: Other IT domains
+  elements:
+  - fr: Développement Android : natif (Java) et Cordova/Ionic (web)
+    en: Android development : native (Java) and Cordova/Ionic (web)
+  - fr: DevOps : déploiement continu (CI), gestion d'un Flow et de pipelines
+    en: DevOps : Continuous Integration, Flow and pipelines management
+  - fr: Maitrise des produits AWS : EC2, RDS, S3, EB, CP, l'API et la CLI
+    en:
+  - fr: Veille technologique accrue (GitHub, flux RSS, réseaux sociaux)
+    en:
+
+- category:
+    fr: Applications lourdes (desktop)
+    en:
+  elements:
+  - fr: Bonne maîtrise du C, C++ et Java
+    en:
+  - fr: Requêtes SQL (PL/SQL, SQL+ ainsi que MySQL)
+    en:
+
+- category:
+    fr: Logiciels et technologies
+    en: Softwares and technologies
+  elements:
+  - fr: Aisance à l'utilisation et aux configurations : Unix, Apache, PHP, nginx
+    en:
+  - fr: Utilisation d'IDEs : Eclipse, les logiciels JetBrains, Android Studio
+    en:
+  - fr: Utilisation du versioning (Git, SVN), très bonne maitrise du Git Flow
+    en:
+
+- category:
+    fr: Domaine audiovisuel
+    en:
+  elements:
+  - fr: Maîtrise de Photoshop (GIMP sur Unix) et de Sony Vegas
+    en:
+  - fr: Utilisation régulière d'FL Studio et de Traktor
+    en:
+  - fr: Technicité en son (mixage, diffusion) et en éclairages (DMX)
+    en:
+
+- category:
+    fr: Langues étrangères
+    en:
+  elements:
+  - fr: Très bonne maîtrise de l’anglais oral et écrit
+    en:
+  - fr: Connaissance de l’espagnol
+    en:
