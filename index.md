@@ -1,3 +1,4 @@
 ---
-layout: home
+layout: presentation
+title: Présentation
 ---
