@@ -2,39 +2,39 @@
     fr: "Applications légères (web)"
     en: "Web applications"
   elements:
-    - fr: "Maitrise de l'HTML[5] et du CSS[3] (avec LESS et SASS)"
+    - fr: "Maitrise de <strong>l'HTML[5]</strong> et du <strong>CSS[3]</strong> (avec LESS et SASS)"
       en: ""
-    - fr: "Très bonne maîtrise du PHP[7] et du Javascript[7]"
+    - fr: "Très bonne maîtrise du <strong>PHP[7]</strong> et du <strong>Javascript[7]</strong>"
       en: ""
-    - fr: "Application systématique des concepts de Responsive Design"
+    - fr: "Application systématique des concepts de <strong>Responsive Design</strong>"
       en: ""
-    - fr: "Maitrise de l'ensemble du framework Symfony"
+    - fr: "Maitrise de l'ensemble du framework <strong>Symfony</strong>"
       en: ""
-    - fr: "Développement NodeJS : Angular, React, Meteor"
-      en: "NodeJS development : Angular, React, Meteor"
+    - fr: "Développement <strong>NodeJS</strong> : Angular, React, Meteor"
+      en: "<strong>NodeJS</strong> development : Angular, React, Meteor"
     - fr: "Technologies front-end : Bootstrap, Foundation, JQuery"
       en: "Front-end technologies : Bootstrap, Foundation, JQuery"
-
-- category:
-    fr: "Autres domaines informatiques"
-    en: "Other IT domains"
-  elements:
-    - fr: "Développement Android : natif (Java) et Cordova/Ionic (web)"
-      en: "Android development : native (Java) and Cordova/Ionic (web)"
-    - fr: "DevOps : déploiement continu (CI), gestion d'un Flow et de pipelines"
-      en: "DevOps : Continuous Integration, Flow and pipelines management"
-    - fr: "Maitrise des produits AWS : EC2, RDS, S3, EB, CP, l'API et la CLI"
-      en: ""
-    - fr: "Veille technologique accrue (GitHub, flux RSS, réseaux sociaux)"
-      en: ""
 
 - category:
     fr: "Applications lourdes (desktop)"
     en: ""
   elements:
-    - fr: "Bonne maîtrise du C, C++ et Java"
+    - fr: "Bonne maîtrise du <strong>C</strong>, <strong>C++</strong> et <strong>Java</strong>"
       en: ""
-    - fr: "Requêtes SQL (PL/SQL, SQL+ ainsi que MySQL)"
+    - fr: "Requêtes <strong>SQL</strong> (PL/SQL, SQL+ ainsi que MySQL)"
+      en: ""
+
+- category:
+    fr: "Autres domaines informatiques"
+    en: "Other IT domains"
+  elements:
+    - fr: "Développement <strong>Android</strong> : natif (Java) et Cordova/Ionic (web)"
+      en: "<strong>Android</strong> development : native (Java) and Cordova/Ionic (web)"
+    - fr: "<strong>DevOps</strong> : déploiement continu (CI), gestion d'un Flow et de pipelines"
+      en: "DevOps : Continuous Integration, Flow and pipelines management"
+    - fr: "Maitrise des produits <strong>AWS</strong> : EC2, RDS, S3, EB, CP, l'API et la CLI"
+      en: ""
+    - fr: "Veille technologique accrue (GitHub, flux RSS, réseaux sociaux)"
       en: ""
 
 - category:
@@ -45,7 +45,7 @@
       en: ""
     - fr: "Utilisation d'IDEs : Eclipse, les logiciels JetBrains, Android Studio"
       en: ""
-    - fr: "Utilisation du versioning (Git, SVN), très bonne maitrise du Git Flow"
+    - fr: "Utilisation du <strong>versioning</strong> (Git, SVN), très bonne maitrise du Git Flow"
       en: ""
 
 - category:
@@ -63,7 +63,7 @@
     fr: "Langues étrangères"
     en: ""
   elements:
-    - fr: "Très bonne maîtrise de l’anglais oral et écrit"
+    - fr: "Très bonne maîtrise de l’<strong>anglais</strong> oral et écrit"
       en: ""
     - fr: "Connaissance de l’espagnol"
       en: ""

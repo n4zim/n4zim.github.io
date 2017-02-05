@@ -27,6 +27,10 @@ $padding: 20px;
   .card {
     padding: $padding;
     background: #eee;
+    .title {
+      font-size: 20px;
+      margin-bottom: $padding / 2;
+    }
   }
 }
 
