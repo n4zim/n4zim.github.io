@@ -4,7 +4,7 @@ layout: default
 
 <div class="grid">
 
-    <div class="elastic-div-1-3 force">
+    <div class="item">
         <div class="card">
             <div class="title">Formation</div>
             {% for e in site.data.education %}
@@ -14,7 +14,7 @@ layout: default
         </div>
     </div>
 
-    <div class="elastic-div-1-3 force">
+    <div class="item">
         <div class="card">
             <div class="title">Expériences professionnelles</div>
             {% for p in site.data.experience %}
@@ -30,7 +30,26 @@ layout: default
         </div>
     </div>
 
-    <div class="elastic-div-1-3 force">
+    <div class="item">
+        <div class="card">
+            <div class="title">Centres d'intérêts</div>
+            {% for interest in site.data.interests %}
+            <strong>{{interest.title['fr']}}</strong>
+            <ul>{% for element in interest.elements %}<li>{{element['fr']}}</li>{% endfor %}</ul>
+            {% endfor %}
+        </div>
+    </div>
+
+    {% for skill in site.data.skills %}
+        <div class="item">
+            <div class="card">
+                <div class="title">{{skill.category['fr']}}</div>
+                <ul>{% for element in skill.elements %}<li>{{element['fr']}}</li>{% endfor %}</ul>
+            </div>
+        </div>
+    {% endfor %}
+
+    <div class="item">
         <div class="card">
             <div class="title">Associatif et projets</div>
             {% for s in site.data.side %}
@@ -43,25 +62,6 @@ layout: default
                     {{s.end | year_and_month_to_french}}
                 </li>
             </ul>
-            {% endfor %}
-        </div>
-    </div>
-
-    {% for skill in site.data.skills %}
-        <div class="elastic-div-1-3 force">
-            <div class="card">
-                <div class="title">{{skill.category['fr']}}</div>
-                <ul>{% for element in skill.elements %}<li>{{element['fr']}}</li>{% endfor %}</ul>
-            </div>
-        </div>
-    {% endfor %}
-
-    <div class="elastic-div-1-3 force">
-        <div class="card">
-            <div class="title">Centres d'intérêts</div>
-            {% for interest in site.data.interests %}
-            <strong>{{interest.title['fr']}}</strong>
-            <ul>{% for element in interest.elements %}<li>{{element['fr']}}</li>{% endfor %}</ul>
             {% endfor %}
         </div>
     </div>
