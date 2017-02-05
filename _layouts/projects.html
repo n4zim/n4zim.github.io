@@ -2,4 +2,27 @@
 layout: default
 ---
 
-PROJECTS
+<div class="grid">
+    {% assign rand = "2 1 2 1 2 3 1 2 3 3 3 1 2 2 3" | split: " " %}
+    {% assign available = 100 %}
+
+    {% for nb in rand %}
+    {% if nb == "3" %}
+    {% if true %}
+    {% assign size = "3-4" %}
+    {% else %}
+    {% assign size = "1-1" %}
+    {% endif %}
+    {% elsif nb == "2" %}
+    {% assign size = "1-2" %}
+    {% else %}
+    {% assign size = "1-4" %}
+    {% endif %}
+    <div class="div-{{size}}">
+        <div class="card">
+            <h3>{{ nb }}</h3>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+

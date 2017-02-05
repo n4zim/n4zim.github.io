@@ -1,17 +1,17 @@
 title: Nazim Lachter
-email: nlachter@gmail.com
-description: >
-  Description coming soon...
+description: Développeur spécialisé dans la recherche et la réalisation d’idées originales
 
-baseurl: ""
-url: ""
+permalink: /article/:categories/:title
 
-twitter_username: n4ziml
-github_username:  n4zim
+google_analytics: UA-31851675-4
 
 repository: n4zim/n4zim.github.io
 
+disqus:
+  shortcode:
+
 markdown: kramdown
+
 gems:
   - jekyll-feed
 exclude:
