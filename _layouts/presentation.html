@@ -30,16 +30,6 @@ layout: default
         </div>
     </div>
 
-    <div class="item">
-        <div class="card">
-            <div class="title">Centres d'intérêts</div>
-            {% for interest in site.data.interests %}
-            <strong>{{interest.title['fr']}}</strong>
-            <ul>{% for element in interest.elements %}<li>{{element['fr']}}</li>{% endfor %}</ul>
-            {% endfor %}
-        </div>
-    </div>
-
     {% for skill in site.data.skills %}
         <div class="item">
             <div class="card">
@@ -66,4 +56,27 @@ layout: default
         </div>
     </div>
 
+    <div class="item">
+        <div class="card">
+            <div class="title">Centres d'intérêts</div>
+            {% for interest in site.data.interests %}
+            <strong>{{interest.title['fr']}}</strong>
+            <ul>{% for element in interest.elements %}<li>{{element['fr']}}</li>{% endfor %}</ul>
+            {% endfor %}
+        </div>
+    </div>
+
 </div>
+
+<script type="text/javascript">
+    (function() {
+        Macy.init({
+            container: ".grid",
+            trueOrder: false,
+            waitForImages: false,
+            margin: 16,
+            columns: 3,
+            breakAt: { 800: 2, 400: 1 }
+        });
+    })();
+</script>

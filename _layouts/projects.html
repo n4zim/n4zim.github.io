@@ -3,26 +3,25 @@ layout: default
 ---
 
 <div class="grid">
-    {% assign rand = "2 1 2 1 2 3 1 2 3 3 3 1 2 2 3" | split: " " %}
-    {% assign available = 100 %}
 
-    {% for nb in rand %}
-    {% if nb == "3" %}
-    {% if true %}
-    {% assign size = "3-4" %}
-    {% else %}
-    {% assign size = "1-1" %}
-    {% endif %}
-    {% elsif nb == "2" %}
-    {% assign size = "1-2" %}
-    {% else %}
-    {% assign size = "1-4" %}
-    {% endif %}
-    <div class="div-{{size}}">
+    <div class="item">
         <div class="card">
-            <h3>{{ nb }}</h3>
+            <div class="title">Test</div>
+            test
         </div>
     </div>
-    {% endfor %}
+
 </div>
 
+<script type="text/javascript">
+    (function() {
+        Macy.init({
+            container: ".grid",
+            trueOrder: true,
+            waitForImages: false,
+            margin: 16,
+            columns: 3,
+            breakAt: { 800: 2, 400: 1 }
+        });
+    })();
+</script>
