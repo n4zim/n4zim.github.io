@@ -1,7 +1,7 @@
 title: Nazim Lachter
 description: Développeur spécialisé dans la recherche et la réalisation d’idées originales
 
-permalink: /article/:categories/:title
+permalink: /posts/:categories/:title
 
 google_analytics: UA-31851675-4
 

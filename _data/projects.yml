@@ -1,218 +1,328 @@
 - name: "TheStudismeTheory"
+  date: "16-04"
   subtitle:
     fr: "Projet Info Appliqué de L3 Informatique"
     en: ""
   description:
     fr: >
-      Dans le cadre de l’option Projet Info Appliqué de ma troisième année de Licence Informatique à Luminy, nous avons constitué une équipe de cinq personnes autour d’un projet dont le sujet devait traiter la gestion de données issue d’une base de données. Nous avons alors développé un jeu de gestion où le joueur a pour objectif de faire fonctionner son institution en créant des écoles et gérant la réparation des matières disponibles dans ces dernières, le personnel, les enseignants et les étudiants.
+      Dans le cadre de l'option Projet Info Appliqué de ma troisième année de Licence Informatique à Luminy, nous avons
+      constitué une équipe de cinq personnes autour d'un projet dont le sujet devait traiter la gestion de données issue
+      d'une base de données. Nous avons alors développé un jeu de gestion où le joueur a pour objectif de faire
+      fonctionner son institution en créant des écoles et gérant la réparation des matières disponibles dans ces
+      dernières, le personnel, les enseignants et les étudiants.
       <br/>
-      Le moteur est basé sur de multiples générateurs (cartes, noms, statistiques et autres) créant ainsi un univers plus ou moins réel. L’ensemble du projet a été développé en Java, et est maintenu par une base de données SQLite.
+      Le moteur est basé sur de multiples générateurs (cartes, noms, statistiques et autres) créant ainsi un univers
+      plus ou moins réel. L'ensemble du projet a été développé en Java, et est maintenu par une base de données SQLite.
     en: ""
+
 
 - name: "Future."
+  date: "16-04"
   subtitle:
-    fr: ""
+    fr: "Projet de Langage Naturel de L3 Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Future. est un programme qui est une intelligence artificielle programmée en C++ qui permet notamment de répondre
+      à quelques phrases simples en affichant une interface selon une commande formée en langage naturel (c'est-à-dire
+      comme si l'on s'adressait directement à la machine).
+      <br/>
+      L'interprétation du langage se faisant avec une analyse lexicale et syntaxique, Future. est capable de détecter
+      une date, une heure ou un lieu, et de déterminer un contexte d'action par exemple.
     en: ""
+
 
 - name: "P.G.D.S.P."
+  date: "16-02"
   subtitle:
-    fr: ""
+    fr: "Solution d'accès et de payement pour festivals"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Conception, développement et déploiement d'une solution qui porte le nom de Plateforme de Gestion des Données et
+      Suivi des Participants. Initialement créée pour le Marseille Dance Festival et qui a pour but de faciliter l'accès
+      au festival et aux différents paiements sur les stands.
+      <br/>
+      Chaque personne inscrite à l'événement aurait potentiellement droit à un bracelet RFID en silicone pouvant à la
+      fois servir au payement de services sur l'événement, et à l'accès aux cours.
+      <br/>
+      Pour le payement des services, le principe consiste à recharger la puce avec un certain montant qui pourra être
+      consommé sur les différents points clients.
+      <br/>
+      Pour l'accès aux cours, le bracelet contiendrait l'inscription aux cours effectuée en ligne ou bien sur place.
+      Avant d'entrer, un lecteur pourra déterminer si la personne était inscrite ou non.
+      <br/>
+      D'un point de vue logistique, plusieurs points d'accès sont liés à un serveur de gestion des données. Plusieurs
+      interfaces peuvent alors être disponibles sur ces dernières :
+      <ul>
+        <li>Inscription pour la distribution du bracelet avec les données concernant le participant</li>
+        <li>Remplissage de crédits sur le bracelet</li>
+        <li>Vérification d'accès à un cours</li>
+        <li>Point de payement direct avec le bracelet</li>
+        <li>Suivi et statistiques des bracelets sur l'événement</li>
+      </ul>
     en: ""
+
 
 - name: "Arbres couvrants aléatoires"
+  date: "15-12"
   subtitle:
-    fr: ""
+    fr: "Projet d'algorithmique avancée de L3 Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Programme en Java permettant la visualisation d'un graphe de données basé sur plusieurs types de parcours
+      aléatoires en largeur et en profondeur. Celui représenté ici est une application de l'algorithme d'Aldous-Broder
+      avec une marche aléatoire. Les couleurs changent de case en case créant ainsi un cycle de couleurs permettant de
+      suivre le chemin des branches de l'arbre. Les graphes générés étant toujours différents, chaque rendu est unique
+      avec un cheminement différent à chaque visualisation.
     en: ""
+
 
 - name: "AssoM G.A.P 2.0"
+  date: "15-12"
   subtitle:
-    fr: ""
+    fr: "Seconde version du gestionnaire de préventes"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Réalisation d'une seconde version du logiciel en ligne de gestion par les membres de la vente de préventes pour
+      des événements organisés par l'association AssoM. Voir plus bas (Octobre 2014) pour les détails concernant la
+      réalisation originale et les objectifs que remplit cette dernière.
     en: ""
+
 
 - name: "AlloDJMarseille Manager"
+  date: "15-07"
   subtitle:
-    fr: ""
+    fr: "Panel de gestion administrative interne"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Interface web de gestion des rendez-vous, des contacts, du personnel et de l'agenda des soirées du prestataire
+      AlloDJMarseille. Grâce à cette dernière, AlloDJMarseille gère rapidement les informations relatives à ses clients
+      pour rapidement attribuer les DJs nécessaires aux événements. Cette solution permet par ailleurs la création de
+      statistiques permettant d'évaluer certaines tendances.
+      <br/>
+      D'un point de vue technique, l'interface a été développée sur Symfony avec Bootstrap pour les différentes
+      interfaces HTML. Les normes Responsive ont donc été respectées, et le site est consultable sur mobile ou écran de
+      petite taille.
+      <br/>
+      Site des prestations de soirées (matériel et DJ) :
+      <a href="https://allodjmarseille.fr" target="_blank">AlloDJMarseille.fr</a>
     en: ""
+
 
 - name: "DROP'in Ionic"
+  date: "15-05"
   subtitle:
-    fr: ""
+    fr: "Perfectionnement sur Ionic et AngularJS"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Création intégrale d'une application mobile compatible Android et iOS basée sur un développement avec le framework
+      Ionic, lui-même basé sur Apache Cordova. Via l'utilisation d'AngluarJS et de vues en HTML et CSS, il permet la
+      création de A à Z d'une application mobile fonctionnelle. Le projet adapté ici fut DROP'in (voir plus bas pour
+      plus d'informations) et les règles de création Material Design de Google furent appliquées (bouton +, menus et
+      interfaces).
     en: ""
+
 
 - name: "Dan"
+  date: "15-01"
   subtitle:
-    fr: ""
+    fr: "Jeu vidéo crée lors de la Global Game Jam 2015"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Tous les détails à propos de la réalisation du jeu, ainsi que l'archive pour y jouer, sont disponibles
+      <a href="http://globalgamejam.org/2015/games/dan" target="_blank">sur le site de la Global Game Jam</a>.
     en: ""
+
 
 - name: "CookieCatch AFK"
+  date: "15-01"
   subtitle:
-    fr: ""
+    fr: "Projet PHP de DUT Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Site web communautaire opposant les utilisateurs inscrits en quatre factions ayant pour objectif ultime de gagner
+      le plus de points (cookies) en participant à des événements divers et variés. L'intégralité du système est codée
+      en PHP avec une architecture MVC et un "Framework maison". Un gestionnaire d'événements, de messagerie et un panel
+      d'administration est disponible.
     en: ""
+
 
 - name: "Gestionnaire de parking"
+  date: "15-01"
   subtitle:
-    fr: ""
+    fr: "Projet Java orienté objet de DUT Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Système de gestion de parking en Java avec multiples fonctionnalités : gestion du parking (nombre de places,
+      configuration des emplacements), gestion des véhicules sur les places, des propriétaires, gestion des types de
+      véhicules, impression du statut du parking et des factures pour chaque emplacement.
+      <br/>
+      Les exceptions sont gérées dans la console et le programme est construit sur plusieurs principes de Design
+      Pattern.
     en: ""
+
 
 - name: "StudiDrive AMU"
+  date: "14-12"
   subtitle:
-    fr: ""
+    fr: "Projet tutoré de DUT Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Réalisation d'un site de covoiturage étudiant. Des notions de gestion de projet ont pu être mises en pratique avec
+      un dossier complété de diagrammes GANTT, d'un cahier des charges, d'une charte graphique et du storyboard des
+      pages finales du site.
     en: ""
 
-- name: "Aion’Snake"
+
+- name: "Aion'Snake"
+  date: "14-11"
   subtitle:
-    fr: ""
+    fr: "Médiation numérique d'une exposition d'un musée"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Pendant les deux jours du MuséoMix 2014 à Arles - au Musée de l'Arles antique – la mosaïque de l'Aion s'est vue
+      totalement modifiée. Au programme : du mapping 3D avec trois projecteurs, du son d'ambiance et au cœur de la
+      mosaïque le célèbre jeu du Snake, codé en Python, contrôlé par les visiteurs à l'aide d'un joystick.
+      <br/>
+      <a href="http://museosudmix.fr/aionsnake" target="_blank">Présentation du projet sur le site du MuséoMix</a>
+      <br/>
+      <a href="http://fb.com/aionsnake" target="_blank">Démonstration du projet</a>
     en: ""
 
-- name: ""
+
+- name: "OpenGL OpenBall"
+  date: "14-11"
   subtitle:
-    fr: ""
+    fr: "Projet de modélisation de DUT Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Totalement codé en Java, ce magnifique simulateur de balle rebondissante va utiliser le moteur OpenGL afin de
+      simuler la physique de la balle pour la faire rebondir.
+      <br/>
+      Des calculs matriciels ont été utilisés et les formes prédéfinies d'OpenGL n'ont pas été utilisées : la balle est
+      donc formée point à point avec un algorithme gérant rotations et translations.
+      <br/>
+      Une fenêtre d'options a été ajoutée afin de modifier les polygones de la sphère, la vitesse de rebondissement et
+      les limites de hauteurs.
     en: ""
 
-- name: ""
+
+- name: "AssoM G.A.P"
+  date: "14-10"
   subtitle:
-    fr: ""
+    fr: "Système de gestion des ventes de préventes"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Le G.A.P, ou Gestionnaire AssoMien des Préventes, est une webapp proposée à l'association étudiante
+      Méditerranéenne – l'AssoM – pour aider les bureaux d'étudiants membres à mieux gérer le comptage des ventes de
+      préventes qu'elles font.
+      <br/>
+      C'est ainsi ces quelques pages qui mettrons à jour non pas une base de données MySQL mais un document Google
+      Sheets pour une visualisation en ligne mais aussi pour ceux voulant modifier le fichier directement depuis le
+      tableau. L'API de Google a donc été utilisée.
     en: ""
 
-- name: ""
+
+- name: "Système de gestion de stocks"
+  date: "14-09"
   subtitle:
-    fr: ""
+    fr: "Application crée par et pour Inform'Aix"
     en: ""
   description:
-    fr: ""
+    fr: >
+      La volonté de développement d'un outil de gestion des stocks de la buvette du bureau des étudiants Inform'Aix a
+      mené à la création une interface et d'un système complet basé sur le web.
+      <br/>
+      Une tablette tactile permet désormais de gérer en direct les commandes de la buvette, celles-ci modifiant l'état
+      des stocks dans la base de données.
+      <br/>
+      Cela a donc permis ensuite l'affichage des tarifs et de la disponibilité des produits – canettes, barres de
+      céréales... – sur un écran.
+      <br/>
+      Un système de calcul des revenus a pu aussi être mis en place, ainsi qu'un algorithme d'estimation des prochains
+      achats à faire avec impression de la liste des courses et de la quantité de chaque produit à prendre.
     en: ""
 
-- name: ""
+
+- name: "Inside"
+  date: "14-06"
   subtitle:
-    fr: ""
+    fr: "Court-métrage pour le projet média de DUT Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Court-métrage réalisé en quatre mois dans le cadre du projet média de la première année du DUT Informatique.
+      Les logiciels After Effect et Sony Vegas ont activement été utilisés.
+      <br/>
+      <a href="http://youtu.be/eO9ZDw0-VlY" target="_blank">Lien de la vidéo</a>
     en: ""
 
-- name: ""
+
+- name: "Chase Game : Catch Me If You Can"
+  date: "13-12"
   subtitle:
-    fr: ""
+    fr: "Projet de C++ de DUT Informatique"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Jeu console en temps réel se calquant sur le principe du "Catch Me If You Can" : sur une carte matricielle générée
+      aléatoirement, deux joueurs tentent de s'attraper l'un avant l'autre.
+      <br/>
+      Des bonus apparaissant aléatoirement permettant d'inverser les commandes, d'aller plus vite, de bloquer l'autre
+      joueur ou de se bloquer soi-même.
+      <br/>
+      Avec la librairie SFML, de la musique dynamique a été intégrée dans le jeu avec un changement de rythme.
+      <br/>
+      <a href="http://bitbucket.org/n4zim/catch-me-if-you-can" target="_blank">Code source et téléchargement</a>
     en: ""
 
-- name: ""
+
+- name: "L'Enclave"
+  date: "12-02"
   subtitle:
-    fr: ""
+    fr: "Système de narration d'histoire non-linéaire"
     en: ""
   description:
-    fr: ""
+    fr: >
+      Projet ayant pour but l'exploration d'une histoire pouvant changer selon les choix que l'on fait pendant.
+      Organisation de l'histoire en sections référées dans les liens pendant la progression.
+      <br/>
+      Toutes les données (l'histoire en elle-même) sont indexées dans des fichiers .txt et permettent la construction
+      automatique des pages de l'histoire.
+      <br/>
+      Les variables du contexte - progression et chemin - sont stockées dans l'adresse de la page et sont récupérées par
+      méthode GET permettant la sauvegarde ou l'accès à une partie facilement et rapidement.
+      <br/>
+      Un système de sauvegarde avec création d'un code unique à noter est aussi présent.
     en: ""
 
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
 
-- name: ""
+- name: "CenterHome"
+  date:
+    start: "09-07"
+    end: "12-04"
   subtitle:
-    fr: ""
+    fr: "Co-fondation d'un projet de service web"
     en: ""
   description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
-    en: ""
-
-- name: ""
-  subtitle:
-    fr: ""
-    en: ""
-  description:
-    fr: ""
+    fr: >
+      Mise en place d'une plateforme communautaire avec des serveurs de jeux en ligne Left 4 Dead, World of Warcraft et
+      Minecraft.
+      <br/>
+      Administration d'un serveur dédié Windows avec maintenance individuelle des serveurs de jeux, du site web, des
+      bases de données et du serveur TeamSpeak.
+      <br/>
+      Création d'une mini-API permettant l'utilisation d'un unique compte CenterHome pour l'ensemble des jeux.
     en: ""
