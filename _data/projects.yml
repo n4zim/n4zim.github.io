@@ -1,0 +1,218 @@
+- name: "TheStudismeTheory"
+  subtitle:
+    fr: "Projet Info Appliqué de L3 Informatique"
+    en: ""
+  description:
+    fr: >
+      Dans le cadre de l’option Projet Info Appliqué de ma troisième année de Licence Informatique à Luminy, nous avons constitué une équipe de cinq personnes autour d’un projet dont le sujet devait traiter la gestion de données issue d’une base de données. Nous avons alors développé un jeu de gestion où le joueur a pour objectif de faire fonctionner son institution en créant des écoles et gérant la réparation des matières disponibles dans ces dernières, le personnel, les enseignants et les étudiants.
+      <br/>
+      Le moteur est basé sur de multiples générateurs (cartes, noms, statistiques et autres) créant ainsi un univers plus ou moins réel. L’ensemble du projet a été développé en Java, et est maintenu par une base de données SQLite.
+    en: ""
+
+- name: "Future."
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "P.G.D.S.P."
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "Arbres couvrants aléatoires"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "AssoM G.A.P 2.0"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "AlloDJMarseille Manager"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "DROP'in Ionic"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "Dan"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "CookieCatch AFK"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "Gestionnaire de parking"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "StudiDrive AMU"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: "Aion’Snake"
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""
+
+- name: ""
+  subtitle:
+    fr: ""
+    en: ""
+  description:
+    fr: ""
+    en: ""

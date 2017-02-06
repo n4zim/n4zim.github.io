@@ -3,21 +3,26 @@ layout: default
 ---
 
 <div class="grid">
-
+    {% for project in site.data.projects %}
     <div class="item">
         <div class="card">
-            <div class="title">Test</div>
-            test
+            <div>
+                <strong>{{project.name}}</strong><br/>
+                <i>{{project.subtitle['fr']}}</i>
+            </div>
+            <div style="margin-top: 15px; text-align: justify">
+                {{project.description['fr']}}
+            </div>
         </div>
     </div>
-
+    {% endfor %}
 </div>
 
 <script type="text/javascript">
     (function() {
         Macy.init({
             container: ".grid",
-            trueOrder: true,
+            trueOrder: false,
             waitForImages: false,
             margin: 16,
             columns: 3,
