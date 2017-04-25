@@ -1,5 +1,5 @@
 - name: "TheStudismeTheory"
-  date: "16-04"
+  date: "04/16"
   subtitle:
     fr: "Projet Info Appliqué de L3 Informatique"
     en: ""
@@ -7,65 +7,64 @@
     fr: >
       Dans le cadre de l'option Projet Info Appliqué de ma troisième année de Licence Informatique à Luminy, nous avons
       constitué une équipe de cinq personnes autour d'un projet dont le sujet devait traiter la gestion de données issue
-      d'une base de données. Nous avons alors développé un jeu de gestion où le joueur a pour objectif de faire
-      fonctionner son institution en créant des écoles et gérant la réparation des matières disponibles dans ces
-      dernières, le personnel, les enseignants et les étudiants.
+      d'une base de données. Nous avons alors développé un jeu de gestion où le joueur aurait pour objectif de faire
+      fonctionner une institution universitaire en créant des écoles et en gérant la réparation des matières disponibles
+      dans ces dernières avec en plus le personnel, les enseignants et les étudiants.
       <br/>
       Le moteur est basé sur de multiples générateurs (cartes, noms, statistiques et autres) créant ainsi un univers
       plus ou moins réel. L'ensemble du projet a été développé en Java, et est maintenu par une base de données SQLite.
     en: ""
 
-
 - name: "Future."
-  date: "16-04"
+  date: "04/16"
   subtitle:
     fr: "Projet de Langage Naturel de L3 Informatique"
     en: ""
   description:
     fr: >
       Future. est un programme qui est une intelligence artificielle programmée en C++ qui permet notamment de répondre
-      à quelques phrases simples en affichant une interface selon une commande formée en langage naturel (c'est-à-dire
+      à quelques phrases simples en affichant une interface celon une commande formée en langage naturel (c'est-à-dire
       comme si l'on s'adressait directement à la machine).
       <br/>
       L'interprétation du langage se faisant avec une analyse lexicale et syntaxique, Future. est capable de détecter
-      une date, une heure ou un lieu, et de déterminer un contexte d'action par exemple.
+      une date, une heure ou un lieu, et de déterminer le contexte d'une action par exemple.
     en: ""
 
 
 - name: "P.G.D.S.P."
-  date: "16-02"
+  date: "02/16"
   subtitle:
-    fr: "Solution d'accès et de payement pour festivals"
+    fr: "Solution d'accès et de paiement pour festivals"
     en: ""
   description:
     fr: >
       Conception, développement et déploiement d'une solution qui porte le nom de Plateforme de Gestion des Données et
-      Suivi des Participants. Initialement créée pour le Marseille Dance Festival et qui a pour but de faciliter l'accès
-      au festival et aux différents paiements sur les stands.
+      Suivi des Participants. Elle a initialement été créée pour le Marseille Dance Festival et qui a pour but de
+      faciliter l'accès au festival et aux différents paiements sur les stands.
       <br/>
-      Chaque personne inscrite à l'événement aurait potentiellement droit à un bracelet RFID en silicone pouvant à la
-      fois servir au payement de services sur l'événement, et à l'accès aux cours.
+      Chaque personne inscrite à l'événement aurait droit à un bracelet RFID en silicone pouvant à la fois servir au
+      paiement de services sur l'événement, mais aussi à l'accès aux cours.
       <br/>
-      Pour le payement des services, le principe consiste à recharger la puce avec un certain montant qui pourra être
+      Pour le paiement des services, le principe consiste à recharger la puce avec un certain montant qui pourra être
       consommé sur les différents points clients.
       <br/>
       Pour l'accès aux cours, le bracelet contiendrait l'inscription aux cours effectuée en ligne ou bien sur place.
-      Avant d'entrer, un lecteur pourra déterminer si la personne était inscrite ou non.
+      Avant d'entrer, un lecteur de bracelets pourra déterminer si la personne était inscrite ou non.
       <br/>
-      D'un point de vue logistique, plusieurs points d'accès sont liés à un serveur de gestion des données. Plusieurs
-      interfaces peuvent alors être disponibles sur ces dernières :
+      D'un point de vue technique, plusieurs points d'accès sont liés à un serveur de gestion de données. Plusieurs
+      interfaces peuvent alors être disponibles sur ces dernières pour :
       <ul>
-        <li>Inscription pour la distribution du bracelet avec les données concernant le participant</li>
-        <li>Remplissage de crédits sur le bracelet</li>
-        <li>Vérification d'accès à un cours</li>
-        <li>Point de payement direct avec le bracelet</li>
-        <li>Suivi et statistiques des bracelets sur l'événement</li>
+        <li>L'inscription pour la distribution du bracelet avec les données concernant le participant</li>
+        <li>Le remplissage de crédits sur le bracelet</li>
+        <li>La vérification d'accès à un cours</li>
+        <li>Les points de paiement direct avec le bracelet</li>
+        <li>Le suivi et les statistiques des bracelets sur l'événement</li>
       </ul>
     en: ""
 
 
 - name: "Arbres couvrants aléatoires"
-  date: "15-12"
+  date: "12/15"
   subtitle:
     fr: "Projet d'algorithmique avancée de L3 Informatique"
     en: ""
@@ -80,7 +79,7 @@
 
 
 - name: "AssoM G.A.P 2.0"
-  date: "15-12"
+  date: "12/15"
   subtitle:
     fr: "Seconde version du gestionnaire de préventes"
     en: ""
@@ -93,7 +92,7 @@
 
 
 - name: "AlloDJMarseille Manager"
-  date: "15-07"
+  date: "07/15"
   subtitle:
     fr: "Panel de gestion administrative interne"
     en: ""
@@ -114,7 +113,7 @@
 
 
 - name: "DROP'in Ionic"
-  date: "15-05"
+  date: "05/15"
   subtitle:
     fr: "Perfectionnement sur Ionic et AngularJS"
     en: ""
@@ -129,7 +128,7 @@
 
 
 - name: "Dan"
-  date: "15-01"
+  date: "01/15"
   subtitle:
     fr: "Jeu vidéo crée lors de la Global Game Jam 2015"
     en: ""
@@ -141,7 +140,7 @@
 
 
 - name: "CookieCatch AFK"
-  date: "15-01"
+  date: "01/15"
   subtitle:
     fr: "Projet PHP de DUT Informatique"
     en: ""
@@ -155,7 +154,7 @@
 
 
 - name: "Gestionnaire de parking"
-  date: "15-01"
+  date: "01/15"
   subtitle:
     fr: "Projet Java orienté objet de DUT Informatique"
     en: ""
@@ -171,7 +170,7 @@
 
 
 - name: "StudiDrive AMU"
-  date: "14-12"
+  date: "12/14"
   subtitle:
     fr: "Projet tutoré de DUT Informatique"
     en: ""
@@ -184,7 +183,7 @@
 
 
 - name: "Aion'Snake"
-  date: "14-11"
+  date: "11/14"
   subtitle:
     fr: "Médiation numérique d'une exposition d'un musée"
     en: ""
@@ -201,7 +200,7 @@
 
 
 - name: "OpenGL OpenBall"
-  date: "14-11"
+  date: "11/14"
   subtitle:
     fr: "Projet de modélisation de DUT Informatique"
     en: ""
@@ -219,7 +218,7 @@
 
 
 - name: "AssoM G.A.P"
-  date: "14-10"
+  date: "10/14"
   subtitle:
     fr: "Système de gestion des ventes de préventes"
     en: ""
@@ -236,7 +235,7 @@
 
 
 - name: "Système de gestion de stocks"
-  date: "14-09"
+  date: "09/14"
   subtitle:
     fr: "Application crée par et pour Inform'Aix"
     en: ""
@@ -257,7 +256,7 @@
 
 
 - name: "Inside"
-  date: "14-06"
+  date: "06/14"
   subtitle:
     fr: "Court-métrage pour le projet média de DUT Informatique"
     en: ""
@@ -271,7 +270,7 @@
 
 
 - name: "Chase Game : Catch Me If You Can"
-  date: "13-12"
+  date: "12/13"
   subtitle:
     fr: "Projet de C++ de DUT Informatique"
     en: ""
@@ -290,7 +289,7 @@
 
 
 - name: "L'Enclave"
-  date: "12-02"
+  date: "02/12"
   subtitle:
     fr: "Système de narration d'histoire non-linéaire"
     en: ""
@@ -310,9 +309,7 @@
 
 
 - name: "CenterHome"
-  date:
-    start: "09-07"
-    end: "12-04"
+  date: "07/09 - 04/12"
   subtitle:
     fr: "Co-fondation d'un projet de service web"
     en: ""
