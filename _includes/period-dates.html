@@ -1,0 +1,54 @@
+{% assign startMonth = include.start | slice: 3, 4 %}
+{% assign startYear = include.start | slice: 0, 2 %}
+{% case startMonth %}
+{% when '01' %}Jan.
+{% when '02' %}Fév.
+{% when '03' %}Mars
+{% when '04' %}Avr.
+{% when '05' %}Mai
+{% when '06' %}Juin
+{% when '07' %}Juil.
+{% when '08' %}Aout
+{% when '09' %}Sept.
+{% when '10' %}Oct.
+{% when '11' %}Nov.
+{% when '12' %}Déc.
+{% endcase %}
+
+20{{ startYear }}
+
+à
+
+{% if include.end == 'now' %}
+maintenant
+{% assign endMonth = site.time | date: '%m' %}
+{% assign endYear = site.time | date: '%y' %}
+{% else %}
+{% assign endMonth = include.end | slice: 3, 4 %}
+{% assign endYear = include.end | slice: 0, 2 %}
+{% case endMonth %}
+{% when '01' %}jan.
+{% when '02' %}fév.
+{% when '03' %}mars
+{% when '04' %}avr.
+{% when '05' %}mai
+{% when '06' %}juin
+{% when '07' %}juil.
+{% when '08' %}aout
+{% when '09' %}sept.
+{% when '10' %}oct.
+{% when '11' %}nov.
+{% when '12' %}déc.
+{% endcase %}
+
+20{{ include.end | slice: 0, 2 }}
+{% endif %}
+
+{% assign period = endYear | minus: startYear | times: 12 | minus: startMonth | plus: endMonth %}
+{% assign years = period | divided_by: 12 %}
+{% if years > 0 %}
+{% assign rest = period | modulo: 12 %}
+({{ years }} an{% if years > 1 %}s{% endif %}{% if rest > 0 %} et {{ rest }} mois{% endif %})
+{% else %}
+({{ period | plus: 1 }} mois)
+{% endif %}
