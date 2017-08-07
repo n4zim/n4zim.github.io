@@ -135,6 +135,8 @@
     en: ""
   description:
     fr: >
+      Participation à la <a href="http://globalgamejam.org" target="_blank">Global Game Jam</a> 2015
+      <br/>
       Tous les détails à propos de la réalisation du jeu, ainsi que l'archive pour y jouer, sont disponibles
       <a href="http://globalgamejam.org/2015/games/dan" target="_blank">sur le site de la Global Game Jam</a>.
     en: ""
@@ -167,6 +169,18 @@
       <br/>
       Les exceptions sont gérées dans la console et le programme est construit sur plusieurs principes de Design
       Pattern.
+    en: ""
+
+
+- name: "Nuit de l’Info 2014"
+  date: "14-12"
+  subtitle:
+    fr: "Organisation d'événement"
+    en: ""
+  description:
+    fr: >
+      Lors de l'édition 2014 de la Nuit de l'Info, le bureau des étudiant Inform'Aix et le fablab L.A.B
+      d'Aix-en-Provence ont permit de mettre en place cet événement à l'IUT Aix–Marseille à Aix-en-Provence.
     en: ""
 
 
@@ -215,6 +229,19 @@
       <br/>
       Une fenêtre d'options a été ajoutée afin de modifier les polygones de la sphère, la vitesse de rebondissement et
       les limites de hauteurs.
+    en: ""
+
+
+- name: "36h chrono de l'entreprise"
+  date: "14-11"
+  subtitle:
+    fr: "Participation à un événement"
+    en: ""
+  description:
+    fr: >
+      Organisé par Aix-Marseille Université, le but de cet événement était de créer en 24h
+
+      Faculté de Droit à Aix–en–Provence
     en: ""
 
 
