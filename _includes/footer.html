@@ -1,35 +1,23 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
+
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+        <ul class="social-media-list">
           <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+            <a href="https://github.com/n4zim" target="_blank">
+              <span class="icon icon--github">{% include icon-github.svg %}</span>
+              <span class="username">n4zim</span>
+            </a>
+          </li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           <li>
-            <a href="https://github.com/n4zim">
-              <span class="icon icon--github">{% include icon-github.svg %}</span>
-              <span class="username">n4zim</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://twitter.com/n4ziml">
+            <a href="https://twitter.com/n4ziml" target="_blank">
               <span class="icon icon--twitter">{% include icon-twitter.svg %}</span>
               <span class="username">n4ziml</span>
             </a>
@@ -37,11 +25,7 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
     </div>
-
   </div>
 
 </footer>

@@ -21,10 +21,7 @@ layout: default
                 <strong><a href="{{p.website}}" target="_blank">{{p.company}}</a></strong>
                 <ul>
                     <li>{{p.position['fr']}}</li>
-                    <li>
-                        {{p.start | year_and_month_to_french}}
-                        {{p.end | year_and_month_to_french}}
-                    </li>
+                    <li>{% include period-dates.html start=p.start end=p.end %}</li>
                 </ul>
             {% endfor %}
         </div>
@@ -47,10 +44,7 @@ layout: default
             <ul>
                 <li>{{s.position['fr']}}</li>
                 <li>{{s.description['fr']}}</li>
-                <li>
-                    {{s.start | year_and_month_to_french}}
-                    {{s.end | year_and_month_to_french}}
-                </li>
+                <li>{% include period-dates.html start=s.start end=s.end %}</li>
             </ul>
             {% endfor %}
         </div>

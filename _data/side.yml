@@ -1,13 +1,3 @@
-- name: "CenterWay"
-  position:
-    fr: "Trésorier"
-    en: "Treasurer"
-  description:
-    fr: "Développement de projets prototypés"
-    en:
-  start: "15-04"
-  end: "now"
-
 - name: "CookieEaterDevs"
   position:
     fr: "Développeur"
@@ -16,6 +6,16 @@
     fr: "Développement de solutions logicielles et applications (DROP'in)"
     en:
   start: "15-01"
+  end: "now"
+
+- name: "CenterWay"
+  position:
+    fr: "Trésorier"
+    en: "Treasurer"
+  description:
+    fr: "Développement de projets prototypés"
+    en:
+  start: "15-04"
   end: "now"
 
 - name: "AssoM"
