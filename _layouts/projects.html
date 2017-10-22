@@ -15,6 +15,14 @@ layout: default
                 <i>{{ project.subtitle['fr'] }}</i>
             </div>
 
+            {% if project.tags %}
+            <ul class="tags">
+                {% for tag in project.tags['fr'] %}
+                <li>{{ tag }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
             {% if project.images %}
             <div style="text-align: center;">
                 {% for image in project.images %}

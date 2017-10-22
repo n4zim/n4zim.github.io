@@ -13,6 +13,9 @@ repository: n4zim/n4zim.github.io
 disqus:
   shortcode:
 
+sass:
+  style: compressed
+
 markdown: kramdown
 
 url: "https://nlachter.fr"

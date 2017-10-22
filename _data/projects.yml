@@ -4,6 +4,9 @@
   subtitle:
     fr: "Projet Info Appliqué de L3 Informatique"
     en: ""
+  tags:
+    fr: [ "Java", "Jeu vidéo", "L3" ]
+    en: []
   images:
     - "TheStudismeTheory1.jpg"
     - "TheStudismeTheory2.jpg"
@@ -32,6 +35,9 @@
   subtitle:
     fr: "Projet de Langage Naturel de L3 Informatique"
     en: ""
+  tags:
+    fr: [ "C++", "Langage Naturel" ]
+    en: []
   images:
     - "Future1.jpg"
     - "Future2.jpg"
@@ -51,6 +57,9 @@
   subtitle:
     fr: "Solution d'accès et de paiement pour festivals"
     en: ""
+  tags:
+    fr: [ "PHP", "Java", "RFID" ]
+    en: []
   description:
     fr: >
       <p>Conception, développement et déploiement d'une solution qui porte le nom de Plateforme de Gestion des Données
@@ -80,6 +89,9 @@
   subtitle:
     fr: "Projet d'algorithmique avancée de L3 Informatique"
     en: ""
+  tags:
+    fr: [ "Java", "Algorithmique avancée", "L3" ]
+    en: []
   images:
     - "ArbresCouvrantsAleatoires.jpg"
   description:
@@ -104,6 +116,9 @@
   subtitle:
     fr: "Seconde version du gestionnaire de préventes"
     en: ""
+  tags:
+    fr: [ "PHP" ]
+    en: []
   description:
     fr: >
       <p>Réalisation d'une seconde version du logiciel en ligne de gestion par les membres de la vente de préventes pour
@@ -119,6 +134,9 @@
   subtitle:
     fr: "Panel de gestion administrative interne"
     en: ""
+  tags:
+    fr: [ "PHP" ]
+    en: []
   images:
     - "AlloDJMarseilleManager.jpg"
   description:
@@ -145,6 +163,9 @@
   subtitle:
     fr: "Perfectionnement sur Ionic et AngularJS"
     en: ""
+  tags:
+    fr: [ "AngularJS", "Application" ]
+    en: []
   images:
     - "DROPinIonic1.png"
     - "DROPinIonic2.png"
@@ -164,6 +185,9 @@
   subtitle:
     fr: "Jeu créé lors de la Global Game Jam 2015"
     en: ""
+  tags:
+    fr: [ "Jeu vidéo", "Unity", "C#" ]
+    en: []
   images:
     - "Dan1.jpg"
     - "Dan2.jpg"
@@ -185,6 +209,9 @@
   subtitle:
     fr: "Projet PHP de DUT Informatique"
     en: ""
+  tags:
+    fr: [ "PHP", "MVC", "DUT" ]
+    en: []
   images:
     - "CookieCatchAFK1.jpg"
     - "CookieCatchAFK2.jpg"
@@ -204,6 +231,9 @@
   subtitle:
     fr: "Projet Java orienté objet de DUT Informatique"
     en: ""
+  tags:
+    fr: [ "Java", "POA", "DUT" ]
+    en: []
   images:
     - "GestionnaireParking.jpg"
   description:
@@ -227,6 +257,9 @@
   subtitle:
     fr: "Projet tutoré de DUT Informatique"
     en: ""
+  tags:
+    fr: [ "PHP", "Gestion de projet", "DUT" ]
+    en: []
   images:
     - "StudiDriveAMU1.jpg"
     - "StudiDriveAMU2.jpg"
@@ -245,6 +278,9 @@
   subtitle:
     fr: "Médiation numérique d'une exposition d'un musée"
     en: ""
+  tags:
+    fr: [ "Python", "Exposition" ]
+    en: []
   images:
     - "AionSnake1.jpg"
     - "AionSnake2.jpg"
@@ -272,6 +308,9 @@
   subtitle:
     fr: "Projet de modélisation de DUT Informatique"
     en: ""
+  tags:
+    fr: [ "Java", "OpenGL", "DUT" ]
+    en: []
   images:
     - "OpenBall1.jpg"
     - "OpenBall2.jpg"
@@ -297,6 +336,9 @@
   subtitle:
     fr: "Système de gestion des ventes de préventes"
     en: ""
+  tags:
+    fr: [ "PHP" ]
+    en: []
   images:
     - "AssoM.png"
   description:
@@ -316,6 +358,9 @@
   subtitle:
     fr: "Application crée par et pour Inform'Aix"
     en: ""
+  tags:
+    fr: [ "NodeJS", "SI" ]
+    en: []
   images:
     - "InformAix1.jpg"
     - "InformAix2.jpg"
@@ -339,6 +384,9 @@
   subtitle:
     fr: "Court-métrage pour le projet média de DUT Informatique"
     en: ""
+  tags:
+    fr: [ "Audiovisuel", "DUT" ]
+    en: []
   images:
     - "Inside.jpg"
   description:
@@ -360,6 +408,9 @@
   subtitle:
     fr: "Projet de C++ de DUT Informatique"
     en: ""
+  tags:
+    fr: [ "C++", "Jeu vidéo", "DUT" ]
+    en: []
   images:
     - "ChaseGame1.jpg"
     - "ChaseGame2.jpg"
@@ -387,6 +438,9 @@
     en: ""
   images:
     - "Enclave.jpg"
+  tags:
+    fr: [ "PHP", "JS", "Jeu" ]
+    en: []
   description:
     fr: >
       <p>Projet ayant pour but l'exploration d'une histoire pouvant changer selon les choix que l'on fait pendant.
@@ -406,6 +460,9 @@
   subtitle:
     fr: "Co-fondation d'un projet de service web"
     en: ""
+  tags:
+    fr: [ "PHP", "Serveurs" ]
+    en: []
   images:
     - "CenterHome1.png"
     - "CenterHome2.jpg"
