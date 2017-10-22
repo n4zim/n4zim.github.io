@@ -1,4 +1,5 @@
 title: Nazim Lachter
+
 description: >
   Nazim Lachter : développeur spécialisé dans la recherche et la réalisation d’idées originales.
   Retrouvez ici mes références ainsi que mes réalisations.
@@ -14,8 +15,11 @@ disqus:
 
 markdown: kramdown
 
-pligins:
+url: "https://nlachter.fr"
+
+plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
