@@ -1,8 +1,12 @@
 - name: "TheStudismeTheory"
-  date: "04/16"
+  date:
+    start: "16-04"
   subtitle:
     fr: "Projet Info Appliqué de L3 Informatique"
     en: ""
+  images:
+    - "TheStudismeTheory1.jpg"
+    - "TheStudismeTheory2.jpg"
   description:
     fr: >
       Dans le cadre de l'option Projet Info Appliqué de ma troisième année de Licence Informatique à Luminy, nous avons
@@ -15,11 +19,16 @@
       plus ou moins réel. L'ensemble du projet a été développé en Java, et est maintenu par une base de données SQLite.
     en: ""
 
+
 - name: "Future."
-  date: "04/16"
+  date:
+    start: "16-04"
   subtitle:
     fr: "Projet de Langage Naturel de L3 Informatique"
     en: ""
+  images:
+    - "Future1.jpg"
+    - "Future2.jpg"
   description:
     fr: >
       Future. est un programme qui est une intelligence artificielle programmée en C++ qui permet notamment de répondre
@@ -32,7 +41,8 @@
 
 
 - name: "P.G.D.S.P."
-  date: "02/16"
+  date:
+    start: "16-02"
   subtitle:
     fr: "Solution d'accès et de paiement pour festivals"
     en: ""
@@ -53,6 +63,7 @@
       <br/>
       D'un point de vue technique, plusieurs points d'accès sont liés à un serveur de gestion de données. Plusieurs
       interfaces peuvent alors être disponibles sur ces dernières pour :
+      <br/>
       <ul>
         <li>L'inscription pour la distribution du bracelet avec les données concernant le participant</li>
         <li>Le remplissage de crédits sur le bracelet</li>
@@ -64,10 +75,13 @@
 
 
 - name: "Arbres couvrants aléatoires"
-  date: "12/15"
+  date:
+    start: "15-12"
   subtitle:
     fr: "Projet d'algorithmique avancée de L3 Informatique"
     en: ""
+  images:
+    - "ArbresCouvrantsAleatoires.jpg"
   description:
     fr: >
       Programme en Java permettant la visualisation d'un graphe de données basé sur plusieurs types de parcours
@@ -79,7 +93,8 @@
 
 
 - name: "AssoM G.A.P 2.0"
-  date: "12/15"
+  date:
+    start: "15-12"
   subtitle:
     fr: "Seconde version du gestionnaire de préventes"
     en: ""
@@ -92,10 +107,13 @@
 
 
 - name: "AlloDJMarseille Manager"
-  date: "07/15"
+  date:
+    start: "15-07"
   subtitle:
     fr: "Panel de gestion administrative interne"
     en: ""
+  images:
+    - "AlloDJMarseilleManager.jpg"
   description:
     fr: >
       Interface web de gestion des rendez-vous, des contacts, du personnel et de l'agenda des soirées du prestataire
@@ -113,10 +131,14 @@
 
 
 - name: "DROP'in Ionic"
-  date: "05/15"
+  date:
+    start: "15-05"
   subtitle:
     fr: "Perfectionnement sur Ionic et AngularJS"
     en: ""
+  images:
+    - "DROPinIonic1.png"
+    - "DROPinIonic2.png"
   description:
     fr: >
       Création intégrale d'une application mobile compatible Android et iOS basée sur un développement avec le framework
@@ -128,10 +150,14 @@
 
 
 - name: "Dan"
-  date: "01/15"
+  date:
+    start: "15-01"
   subtitle:
     fr: "Jeu vidéo crée lors de la Global Game Jam 2015"
     en: ""
+  images:
+    - "Dan1.jpg"
+    - "Dan2.jpg"
   description:
     fr: >
       Tous les détails à propos de la réalisation du jeu, ainsi que l'archive pour y jouer, sont disponibles
@@ -140,10 +166,15 @@
 
 
 - name: "CookieCatch AFK"
-  date: "01/15"
+  date:
+    start: "15-01"
   subtitle:
     fr: "Projet PHP de DUT Informatique"
     en: ""
+  images:
+    - "CookieCatchAFK1.jpg"
+    - "CookieCatchAFK2.jpg"
+    - "CookieCatchAFK3.jpg"
   description:
     fr: >
       Site web communautaire opposant les utilisateurs inscrits en quatre factions ayant pour objectif ultime de gagner
@@ -154,10 +185,13 @@
 
 
 - name: "Gestionnaire de parking"
-  date: "01/15"
+  date:
+    start: "15-01"
   subtitle:
     fr: "Projet Java orienté objet de DUT Informatique"
     en: ""
+  images:
+    - "GestionnaireParking.jpg"
   description:
     fr: >
       Système de gestion de parking en Java avec multiples fonctionnalités : gestion du parking (nombre de places,
@@ -170,10 +204,15 @@
 
 
 - name: "StudiDrive AMU"
-  date: "12/14"
+  date:
+    start: "14-12"
   subtitle:
     fr: "Projet tutoré de DUT Informatique"
     en: ""
+  images:
+    - "StudiDriveAMU1.jpg"
+    - "StudiDriveAMU2.jpg"
+    - "StudiDriveAMU3.jpg"
   description:
     fr: >
       Réalisation d'un site de covoiturage étudiant. Des notions de gestion de projet ont pu être mises en pratique avec
@@ -183,27 +222,40 @@
 
 
 - name: "Aion'Snake"
-  date: "11/14"
+  date:
+    start: "14-11"
   subtitle:
     fr: "Médiation numérique d'une exposition d'un musée"
     en: ""
+  images:
+    - "AionSnake1.jpg"
+    - "AionSnake2.jpg"
   description:
     fr: >
       Pendant les deux jours du MuséoMix 2014 à Arles - au Musée de l'Arles antique – la mosaïque de l'Aion s'est vue
       totalement modifiée. Au programme : du mapping 3D avec trois projecteurs, du son d'ambiance et au cœur de la
       mosaïque le célèbre jeu du Snake, codé en Python, contrôlé par les visiteurs à l'aide d'un joystick.
-      <br/>
-      <a href="http://museosudmix.fr/aionsnake" target="_blank">Présentation du projet sur le site du MuséoMix</a>
-      <br/>
-      <a href="http://fb.com/aionsnake" target="_blank">Démonstration du projet</a>
     en: ""
+  links:
+    - url: "http://fb.com/aionsnake"
+      title:
+        fr: "Démonstration"
+        en: ""
+    - url: "http://www.museomix.org/editions/2014/arles-2014/prototypes/aionsnake"
+      title:
+        fr: "Projet sur le site du MuséoMix"
+        en: ""
 
 
 - name: "OpenGL OpenBall"
-  date: "11/14"
+  date:
+    start: "14-11"
   subtitle:
     fr: "Projet de modélisation de DUT Informatique"
     en: ""
+  images:
+    - "OpenBall1.jpg"
+    - "OpenBall2.jpg"
   description:
     fr: >
       Totalement codé en Java, ce magnifique simulateur de balle rebondissante va utiliser le moteur OpenGL afin de
@@ -218,10 +270,13 @@
 
 
 - name: "AssoM G.A.P"
-  date: "10/14"
+  date:
+    start: "14-10"
   subtitle:
     fr: "Système de gestion des ventes de préventes"
     en: ""
+  images:
+    - "AssoM.png"
   description:
     fr: >
       Le G.A.P, ou Gestionnaire AssoMien des Préventes, est une webapp proposée à l'association étudiante
@@ -235,10 +290,14 @@
 
 
 - name: "Système de gestion de stocks"
-  date: "09/14"
+  date:
+    start: "14-09"
   subtitle:
     fr: "Application crée par et pour Inform'Aix"
     en: ""
+  images:
+    - "InformAix1.jpg"
+    - "InformAix2.jpg"
   description:
     fr: >
       La volonté de développement d'un outil de gestion des stocks de la buvette du bureau des étudiants Inform'Aix a
@@ -256,24 +315,35 @@
 
 
 - name: "Inside"
-  date: "06/14"
+  date:
+    start: "14-06"
   subtitle:
     fr: "Court-métrage pour le projet média de DUT Informatique"
     en: ""
+  images:
+    - "Inside.jpg"
   description:
     fr: >
       Court-métrage réalisé en quatre mois dans le cadre du projet média de la première année du DUT Informatique.
       Les logiciels After Effect et Sony Vegas ont activement été utilisés.
-      <br/>
-      <a href="http://youtu.be/eO9ZDw0-VlY" target="_blank">Lien de la vidéo</a>
     en: ""
+  links:
+    - url: "http://youtu.be/eO9ZDw0-VlY"
+      title:
+        fr: "Lien de la vidéo"
+        en: ""
 
 
-- name: "Chase Game : Catch Me If You Can"
-  date: "12/13"
+- name: "Catch Me If You Can"
+  date:
+    start: "13-12"
   subtitle:
     fr: "Projet de C++ de DUT Informatique"
     en: ""
+  images:
+    - "ChaseGame1.jpg"
+    - "ChaseGame2.jpg"
+    - "ChaseGame3.jpg"
   description:
     fr: >
       Jeu console en temps réel se calquant sur le principe du "Catch Me If You Can" : sur une carte matricielle générée
@@ -283,16 +353,22 @@
       joueur ou de se bloquer soi-même.
       <br/>
       Avec la librairie SFML, de la musique dynamique a été intégrée dans le jeu avec un changement de rythme.
-      <br/>
-      <a href="http://bitbucket.org/n4zim/catch-me-if-you-can" target="_blank">Code source et téléchargement</a>
     en: ""
+  links:
+    - url: "https://github.com/n4zim/IUT_CPP_CatchMeIfYouCan"
+      title:
+        fr: "Code source et téléchargement"
+        en: ""
 
 
 - name: "L'Enclave"
-  date: "02/12"
+  date:
+    start: "12-02"
   subtitle:
     fr: "Système de narration d'histoire non-linéaire"
     en: ""
+  images:
+    - "Enclave.jpg"
   description:
     fr: >
       Projet ayant pour but l'exploration d'une histoire pouvant changer selon les choix que l'on fait pendant.
@@ -309,10 +385,15 @@
 
 
 - name: "CenterHome"
-  date: "07/09 - 04/12"
+  date:
+    start: "09-07"
+    end: "12-04"
   subtitle:
     fr: "Co-fondation d'un projet de service web"
     en: ""
+  images:
+    - "CenterHome1.png"
+    - "CenterHome2.jpg"
   description:
     fr: >
       Mise en place d'une plateforme communautaire avec des serveurs de jeux en ligne Left 4 Dead, World of Warcraft et

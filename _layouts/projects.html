@@ -7,12 +7,41 @@ layout: default
     <div class="item">
         <div class="card">
             <div>
-                <strong>[{{ project.date }}] {{project.name}}</strong><br/>
-                <i>{{project.subtitle['fr']}}</i>
+                <strong>
+                    [{% include period-dates.html start=project.date.start end=project.date.end period=false %}]
+                    {{ project.name }}
+                </strong>
+                <br/>
+                <i>{{ project.subtitle['fr'] }}</i>
             </div>
+
+            {% if project.images %}
+            <div style="text-align: center;">
+                {% for image in project.images %}
+                <img
+                    src="/assets/projects/{{ image }}"
+                    alt="{{ project.name }}{% if forloop.length > 1 %} {{ forloop.index }}{% endif %}"
+                    style="margin-top: 15px;"
+                >
+                {% endfor %}
+            </div>
+            {% endif %}
+            
             <div style="margin-top: 15px; text-align: justify">
-                {{project.description['fr']}}
+                {{ project.description['fr'] }}
             </div>
+            
+            {% if project.links %}
+            <br/>
+            <ul>
+                {% for link in project.links %}
+                <li>
+                    <a href="{{ link.url }}" target="_blank">{{ link.title['fr'] }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
         </div>
     </div>
     {% endfor %}
