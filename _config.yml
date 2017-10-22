@@ -14,8 +14,9 @@ disqus:
 
 markdown: kramdown
 
-gems:
+pligins:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
