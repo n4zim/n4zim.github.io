@@ -1,4 +1,5 @@
 title: Nazim Lachter
+
 description: >
   Nazim Lachter : développeur spécialisé dans la recherche et la réalisation d’idées originales.
   Retrouvez ici mes références ainsi que mes réalisations.
@@ -12,10 +13,17 @@ repository: n4zim/n4zim.github.io
 disqus:
   shortcode:
 
+sass:
+  style: compressed
+
 markdown: kramdown
 
-gems:
+url: "https://nlachter.fr"
+
+plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
