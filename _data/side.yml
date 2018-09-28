@@ -1,22 +1,32 @@
-- name: "CookieEaterDevs"
+- name: "Le Carillon"
   position:
-    fr: "Développeur"
-    en: "Developer"
-  description:
-    fr: "Développement de solutions logicielles et applications (DROP'in)"
+    fr: "Membre et développeur"
     en:
-  start: "15-01"
+  description:
+    fr: "Développement de la plateforme web de gestion interne des données"
+    en:
+  start: "17-05"
   end: "now"
 
 - name: "CenterWay"
   position:
-    fr: "Trésorier"
+    fr: "Fondateur et trésorier"
     en: "Treasurer"
   description:
     fr: "Développement de projets prototypés"
     en:
   start: "15-04"
-  end: "now"
+  end: "17-03"
+
+- name: "CookieEaterDevs"
+  position:
+    fr: "Fondateur et développeur"
+    en: "Developer"
+  description:
+    fr: "Solutions logicielles et applications"
+    en:
+  start: "15-01"
+  end: "17-02"
 
 - name: "AssoM"
   position:
@@ -28,12 +38,12 @@
   start: "14-11"
   end: "16-06"
 
-- name: "BDE Inform'Aix"
+- name: "Inform'Aix"
   position:
     fr: "Président"
     en:
   description:
-    fr: "Présidence du Bureau des Etudiants du département Informatique de l'IUT d'Aix-Marseille"
+    fr: "Bureau des Etudiants du département Informatique de l'IUT d'Aix-en-Provence"
     en:
   start: "14-02"
   end: "15-04"

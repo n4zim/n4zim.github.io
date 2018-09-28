@@ -1,57 +1,85 @@
+
 - category:
-    fr: "Applications légères (web)"
+    fr: "Technologies du web"
     en: "Web applications"
   elements:
     - fr: "Maîtrise des standards de l'<strong>HTML 5</strong> et du <strong>CSS</strong> (avec LESS et SASS)"
       en: ""
-    - fr: "Très bonne maîtrise du <strong>PHP</strong> et de <strong>Javascript</strong> (jusqu'à <strong>ES6</strong>)"
+    - fr: "Très bonne maîtrise du <strong>PHP</strong> et de <strong>Javascript</strong> (ES6)"
+      en: ""
+    - fr: "Maîtrise des frameworks <strong>Symfony</strong> (PHP), <strong>Express</strong> (JS) et <strong>Meteor</strong> (JS)"
       en: ""
     - fr: "Application systématique des concepts de <strong>Responsive Design</strong>"
       en: ""
-    - fr: "Maîtrise des frameworks <strong>Symfony (PHP)</strong> et <strong>Meteor (JS)</strong>"
+    - fr: "Technologies front-end : <strong>React</strong>, <strong>Angular</strong>"
       en: ""
-    - fr: "Développement <strong>NodeJS</strong> avec notamment React et Angular"
-      en: "<strong>NodeJS</strong> development : Angular, React"
-    - fr: "Technologies front-end : Bootstrap, Foundation, JQuery"
-      en: "Front-end technologies : Bootstrap, Foundation, JQuery"
+    - fr: "Librairies front-end : Bootstrap, JQuery"
 
 - category:
-    fr: "Applications lourdes (desktop)"
+    fr: "Intégration continue et DevOps"
     en: ""
   elements:
-    - fr: "Bonne maîtrise du <strong>C++</strong> et de <strong>Java</strong>"
+    - fr: "Utilisation intensive de <strong>Docker</strong> et ses conteneurs"
       en: ""
-    - fr: "Maîtrise du <strong>C</strong>, de <strong>Python</strong> et de <strong>Go</strong>"
+    - fr: "Maitrise de la configuration de <strong>Jenkins</strong>, <strong>GitLab CI</strong> et <strong>Travis CI</strong>"
       en: ""
-    - fr: "Requêtes <strong>SQL</strong> (PL/SQL, SQL+ ainsi que MySQL)"
+    - fr: "Configuration d'orchestrateurs tel que <strong>Kubernetes</strong>"
+      en: ""
+    - fr: "Monitoring avec Prometheus, Grafana et Kibana"
+      en: ""
+    - fr: "Utilisation de <strong>Rancher</strong> : Cattle dans la version 1 et k8s dans la version 2"
       en: ""
 
 - category:
-    fr: "Autres domaines informatiques"
+    fr: "Applications mobiles"
+    en: ""
+  elements:
+    - fr: "Développement <strong>Android</strong> natif en Java"
+      en: ""
+    - fr: "Création d'applications multiplateformes via <strong>React Native</strong> (JS)"
+      en: ""
+    - fr: "Applications hybrides avec <strong>Ionic Cordova</strong> (JS)"
+      en: ""
+
+- category:
+    fr: "Applications  bureau"
+    en: ""
+  elements:
+    - fr: "Bonne maîtrise de <strong>Java</strong>"
+      en: ""
+    - fr: "Maîtrise du <strong>C++</strong>, de <strong>Python</strong> et de <strong>Go</strong>"
+      en: ""
+    - fr: "Utilisation régulière de Bash"
+      en: ""
+    - fr: "Utilisation d'<strong>Electron</strong> pour la génération de logiciels depuis du Javascript"
+      en: ""
+
+- category:
+    fr: "Autres technologies"
     en: "Other IT domains"
   elements:
-    - fr: "Développement <strong>Android</strong> : natif (Java) et Cordova/Ionic (web)"
-      en: "<strong>Android</strong> development : native (Java) and Cordova/Ionic (web)"
-    - fr: "<strong>DevOps</strong> : déploiement continu (CI) et gestion de pipelines"
-      en: "DevOps : Continuous Integration, pipelines management"
-    - fr: "Utilisation et configurations de conteneurs <strong>Docker</strong> et d'orchestrateurs tel que <strong>Kubernetes</strong>"
+    - fr: "Bon niveau en <strong>SQL</strong> (MySQL, PL/SQL, SQL+)"
       en: ""
-    - fr: "Expérience dans l'utilisation d'<strong>API</strong>s et de <strong>CLI</strong>s"
+    - fr: "Expérience dans l'utilisation d'APIs et CLIs"
       en: ""
     - fr: "Maîtrise des produits <strong>AWS</strong> : EC2, RDS, S3, EBS, CP, CW"
       en: ""
-    - fr: "Veille technologique accrue (GitHub, flux RSS, réseaux sociaux)"
+    - fr: "Maîtrise des produits <strong>Google</strong> : GCE, GKE, Firebase, ..."
+      en: ""
+    - fr: "Veille technologique accrue (GitHub, Twitter, flux RSS)"
       en: ""
 
 - category:
-    fr: "Logiciels et technologies"
+    fr: "Outils et logiciels"
     en: "Softwares and technologies"
   elements:
-    - fr: "Aisance aux configurations serveur Linux : SSH, PHP, nginx, Apache"
+    - fr: "Configurations système : gestionnaires de paquets, SSH, PHP, nginx, Apache, ..."
       en: ""
-    - fr: "Utilisation d'IDEs : IntelliJ et Android Studio"
+    - fr: "Utilisation intensive de versioning (<strong>Git</strong> et SVN)"
       en: ""
-    - fr: "Utilisation intensive de <strong>versioning</strong> (Git, SVN), très bonne pratique du Git Flow"
+    - fr: "Utlisation de zsh en tant que shell"
+      en: ""
+    - fr: "Utilisation de VS Code, IntelliJ et Android Studio"
       en: ""
 
 - category:
@@ -62,14 +90,16 @@
       en: ""
     - fr: "Utilisation régulière d'FL Studio et de Traktor pour de la composition musicale"
       en: ""
-    - fr: "Technicité en son (montage, mixage et diffusion) et en éclairages (mappings DMX)"
+    - fr: "Technicité en son (montage, mixage et diffusion) et en éclairages (mapping DMX)"
       en: ""
 
 - category:
     fr: "Langues étrangères"
     en: ""
   elements:
-    - fr: "Très bonne maîtrise de l'<strong>anglais</strong> oral et écrit"
+    - fr: "Bonne maîtrise et pratique régulière de l'<strong>anglais</strong> oral et écrit"
       en: ""
-    - fr: "Connaissance de l'espagnol"
+    - fr: "Vocabulaire technique en anglais"
+      en: ""
+    - fr: "Compréhension de l'espagnol"
       en: ""

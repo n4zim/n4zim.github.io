@@ -1,7 +1,7 @@
 - company: "Zei"
   website: "https://zei-world.com"
   position:
-    fr: "Directeur technique (CTO)"
+    fr: "Directeur technique - CTO"
     en: "Chief Technology Officer"
   start: "16-10"
   end: "now"
@@ -10,14 +10,14 @@
   website: "https://zero-ecoimpact.org"
   position:
     fr: "Développeur"
-    en: "Chief Technology Officer"
+    en: "Developer"
   start: "16-04"
   end: "16-10"
 
 - company: "Digitick SA"
   website: "http://www.digitick.com"
   position:
-    fr: "Stagiaire développeur Digitick Systems"
+    fr: "Développeur Digitick Systems"
     en: "Digitick Systems Intern Developer"
   start: "15-04"
   end: "15-06"
@@ -25,7 +25,7 @@
 - company: "AlloDJMarseille"
   website: "https://allodjmarseille.fr"
   position:
-    fr: "Technicien référent, animateur DJ et lightjockey"
-    en: "Supervisor engineer, DJ and lightjockey"
+    fr: "Co-fondateur, superviseur, animateur DJ et lightjockey"
+    en: "Founder, supervisor, DJ and lightjockey"
   start: "14-03"
   end: "17-08"
