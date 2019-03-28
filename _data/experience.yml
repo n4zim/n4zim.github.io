@@ -1,7 +1,15 @@
+- company: "Blue Forest"
+  website: "https://blueforest.fr"
+  position:
+    fr: "Président (CEO) et DevOps"
+    en: "CEO & DevOps"
+  start: "19-03"
+  end: "now"
+
 - company: "Zei"
   website: "https://zei-world.com"
   position:
-    fr: "Directeur technique - CTO"
+    fr: "Directeur technique (CTO)"
     en: "Chief Technology Officer"
   start: "16-10"
   end: "now"
