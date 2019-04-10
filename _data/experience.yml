@@ -1,9 +1,9 @@
 - company: "Blue Forest"
   website: "https://blueforest.fr"
   position:
-    fr: "Président (CEO) et DevOps"
-    en: "CEO & DevOps"
-  start: "19-03"
+    fr: "Co-fondateur & DevOps"
+    en: "Co-founder & DevOps"
+  start: "19-02"
   end: "now"
 
 - company: "Zei"
@@ -22,7 +22,7 @@
   start: "16-04"
   end: "16-10"
 
-- company: "Digitick SA"
+- company: "Digitick"
   website: "http://www.digitick.com"
   position:
     fr: "Développeur Digitick Systems"
@@ -34,6 +34,6 @@
   website: "https://allodjmarseille.fr"
   position:
     fr: "Co-fondateur, superviseur, animateur DJ et lightjockey"
-    en: "Founder, supervisor, DJ and lightjockey"
+    en: "Co-founder, supervisor, DJ and lightjockey"
   start: "14-03"
   end: "17-08"
